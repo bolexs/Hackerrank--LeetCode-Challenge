@@ -1,4 +1,4 @@
-# Project Title
+# Hackerrank 30 Days with PHP
 
 ## Table of Contents
 
