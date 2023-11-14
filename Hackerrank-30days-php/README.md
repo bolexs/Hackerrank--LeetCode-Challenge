@@ -12,3 +12,4 @@ This a folder containing my hackerrank 30days solutions using php with a brief e
 ## Files
 
 - [Hello World](Hello_world.php)
+- [Data Types](dataTypess.php)
