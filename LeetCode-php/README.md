@@ -12,3 +12,4 @@ This a folder containing my hackerrank Leetcode solutions using php with a brief
 ## Files
 
 - [RunningSumArray](RunningSumArray.php)
+- [RichestCustomerWealth](RichestCustomerWealth.php)
