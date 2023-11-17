@@ -53,6 +53,8 @@ class FizzBuzz
 // then i finally returned the ans as our result
 
 
+$solution = new FizzBuzz();
+$solution->fizzBuzz(15);
 
 
 ?>
