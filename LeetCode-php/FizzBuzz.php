@@ -2,11 +2,7 @@
 
 class FizzBuzz
 {
-    /**
-     * @param Integer $n
-     * @return String[]
-     */
-    function fizzBuzz($n) 
+    public function fizzBuzz($n) 
     {
         $ans = [];
 
