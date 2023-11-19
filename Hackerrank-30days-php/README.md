@@ -15,3 +15,4 @@ This a folder containing my hackerrank 30days solutions using php with a brief e
 - [Data Types](dataTypess.php)
 - [Operators](Operators.php)
 - [ConditionalState](ConditonalState.php)
+- [Person](Person.php)
