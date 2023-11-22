@@ -4,20 +4,20 @@ $i = 4;
 $d = 4.0;
 $s = "HackerRank ";
 // Declare second integer, double, and String variables.
-integer: $plus;
-double: $deci;
-string: $stri;
+integer: $typeInteger;
+double: $typeDouble;
+string: $typeString;
 // Read and save an integer, double, and String to your variables.
-$plus = 12;
-$deci = 4.0;
-$stri = 'is the best place to learn and practice coding!';
+$typeInteger = 12;
+$typeDouble = 4.0;
+$typeString = 'is the best place to learn and practice coding!';
 // Print the sum of both integer variables on a new line.
-print(($plus + $i) . "\n");
+print(($typeInteger + $i) . "\n");
 // Print the sum of the double variables on a new line.
-print(number_format($deci + $d, 1) . "\n");
+print(number_format($typeDouble + $d, 1) . "\n");
 // Concatenate and print the String variables on a new line
 // The 's' variable above should be printed first.
-print($s . $stri);
+print($s . $typeString);
 fclose($handle);
 
 // Task
