@@ -17,3 +17,4 @@ This a folder containing my hackerrank 30days solutions using php with a brief e
 - [ConditionalState](ConditonalState.php)
 - [Person](Person.php)
 - [SimpleLoop](SimpleLoops.php)
+- [StringSpliting](SplitString.php)
