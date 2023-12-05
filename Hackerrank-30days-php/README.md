@@ -18,3 +18,4 @@ This a folder containing my hackerrank 30days solutions using php with a brief e
 - [Person](Person.php)
 - [SimpleLoop](SimpleLoops.php)
 - [StringSpliting](SplitString.php)
+- [SeperationOfIndexes](SplitEvenAndOdd.php)
