@@ -40,4 +40,12 @@ class SplitEvenAndOdd
 
 // Solution
 
-// this solution has not me been fully worked on and understood by me, when i have i will update this file with my thought process and understanding of the solution.
+// i firstly declared the inputFromUser variable to get the number of inputs from the user, i.e 2, 3 and so on
+// i then created a for loop to loop through the number of inputs from the user
+// in the for loop, i then declared the inputtedString variable to get the string that has been inputted by the user
+// then declared a variable called even and odd to store even and odd characters respectively and assigned an empty string to them
+// i then created another for loop to iterate through the string length of the inputtedString variable
+// i then used the modulus operator to check if the index of the string is even or odd
+// if the index is even, the index j of the inputtedString is concatenated to the even variable
+// else if the index is odd, the index j of the inputtedString is concatenated to the odd variable
+// after the for loop, i then echoed the even and odd variables with a space in between them
